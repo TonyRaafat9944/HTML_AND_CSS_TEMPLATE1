@@ -177,7 +177,7 @@ html {
 /* start landing */
 .landing {
     background-size: cover;
-    background-image: url(/images/photo-1609688669309-fc15db557633.avif);
+    background-image: url(../images/photo-1609688669309-fc15db557633.avif);
     height: calc(100vh - 64px);
     position: relative;
 }
